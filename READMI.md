@@ -5,5 +5,5 @@
 Para rodar na sua maquina 
 
 ```
-npm install
+node app.js
 ```
